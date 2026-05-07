@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="W3_Injector/W3_Injector.vcxproj" Id="59cb4c14-07f7-4b2e-b5cf-b2039a01166b" />
+  <Project Path="W3_Payload/W3_Payload.vcxproj" Id="4ea53b84-9b4e-4555-8f31-2c4b25cd2d60" />
+</Solution>
